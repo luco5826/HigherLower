@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="too_high">Troppo alto!</string>
+    <string name="too_low">Troppo basso!</string>
+    <string name="guessed">Indovinato!</string>
+    <string name="big_label">Indovina il numero</string>
+    <string name="try_button">PROVA</string>
+</resources>

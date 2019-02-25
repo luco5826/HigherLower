@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">HigherLower</string>
+    <string name="big_label">Guess the number!</string>
+    <string name="try_button">TRY</string>
+    <string name="too_high">Too High!</string>
+    <string name="too_low">Too Low!</string>
+    <string name="guessed">Guessed!</string>
+</resources>
